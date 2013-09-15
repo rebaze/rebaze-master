@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.sonatype.oss</groupId>
+    <artifactId>oss-parent</artifactId>
+    <version>7</version>
+  </parent>
+
+  <groupId>com.rebaze.master</groupId>
+  <artifactId>master</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>Rebaze Master - POM</name>
+  <url>http://github.com/rebaze/rebaze-master/</url>
+
+  <scm>
+    <url>http://github.com/rebaze/rebaze-master/</url>
+    <connection>scm:git:git://github.com/rebaze/rebaze-master.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/rebaze/rebaze-master.git</developerConnection>
+    <tag>HEAD</tag>
+  </scm>
+
+  <licenses>
+    <license>
+      <name>Apache 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+
+  <organization>
+    <name>rebaze GmbH</name>
+    <url>http://www.rebaze.com</url>
+  </organization>
+
+</project>
