@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.sonatype.oss</groupId>
     <artifactId>oss-parent</artifactId>
-    <version>7</version>
+    <version>9</version>
   </parent>
 
   <groupId>com.rebaze.master</groupId>
@@ -15,7 +15,7 @@
   <packaging>pom</packaging>
 
   <name>Rebaze Master - POM</name>
-  <url>http://github.com/rebaze/rebaze-master/</url>
+  <url>http://github.com/rebaze/rebaze-master/</ur>l
 
   <scm>
     <url>http://github.com/rebaze/rebaze-master/</url>
