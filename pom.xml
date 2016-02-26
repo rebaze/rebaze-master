@@ -3,7 +3,7 @@
 
     <groupId>com.rebaze</groupId>
     <artifactId>master</artifactId>
-    <version>2-SNAPSHOT</version>
+    <version>2</version>
     <packaging>pom</packaging>
 
     <name>rebaze - Master POM</name>
@@ -44,7 +44,7 @@
         <connection>scm:git:git@github.com:rebaze/rebaze-master.git</connection>
         <developerConnection>scm:git:git@github.com:rebaze/rebaze-master.git</developerConnection>
         <url>git@github.com:rebaze/rebaze-master.git</url>
-        <tag>HEAD</tag>
+        <tag>master-2</tag>
     </scm>
 
     <developers>
